@@ -50,7 +50,7 @@ To run this application:
 3.  Navigate to the project directory in your terminal.
 4.  Run `npm install` to install dependencies.
 5.  Run `npm start` to start the development server.
-6.  Open your browser and navigate to `http://localhost:3000` to view the application.
+6.  Open your browser and navigate to `http://localhost:5173` to view the application.
 
 ### Technologies Used
 

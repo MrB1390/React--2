@@ -10,7 +10,7 @@ const Header = () => {
             Build anything you want with Aperture
           </h3>
           <div class="d-flex gap-3 justify-content-center lead fw-normal">
-            <img src="src\assets\pexels-web-donut-19090.jpg" alt="Shoes Collection" width={"50%"} />
+            <img src="https://images.pexels.com/photos/19090/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=600" alt="Shoes Collection" width={"50%"} />
           </div>
         </div>
         <div class="product-device shadow-sm d-none d-md-block"></div>
